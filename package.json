@@ -1,0 +1,16 @@
+{
+  "name": "api-test-using-codeceptjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logintest.js",
+  "devDependencies": {
+    "codeceptjs": "^3.5.4"
+  },
+  "scripts": {
+    "test": "mocha",
+    "devTest": "npx codeceptjs run --steps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

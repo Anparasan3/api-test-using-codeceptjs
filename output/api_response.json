@@ -1,0 +1,9 @@
+{
+  "isSuccess": true,
+  "message": "Sent OTP Mail successfully!!",
+  "data": {
+    "otpEnableResendButtonTime": "45",
+    "otpExpireTimeAfterSend": "60",
+    "twofactorenable": "F"
+  }
+}
